@@ -3,11 +3,17 @@
 <p align="center">
 <img src="https://media.tenor.com/SgVtJpD9tp0AAAAM/itcrowd-it.gif" width="720" height="400" />
 </p>
+
 ---
+
 <p align="center">
-  <a htref="https://portfolio-nxsoo.vercel.app">About & Projects</a>
+  <a href="https://portfolio-nxsoo.vercel.app">
+    <img src="https://img.shields.io/badge/About%20%26%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
 ---
+
 ## <p align="center"> Stats:</p>
 
 <p align="center">
