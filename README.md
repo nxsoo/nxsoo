@@ -11,11 +11,11 @@
     <img src="https://img.shields.io/badge/👉_Click%20Me_About%20%26%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <br/><br/>
-  <a href="https://www.facebook.com/yourusername">
+  <a href="https://www.facebook.com/clint.o.tamayo">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   &nbsp; 
-  <a href="https://www.linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/clintjtamayo">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
