@@ -4,8 +4,6 @@
 <img src="https://media.tenor.com/SgVtJpD9tp0AAAAM/itcrowd-it.gif" width="720" height="400" />
 </p>
 
----
-
 <p align="center">
   <a href="https://portfolio-nxsoo.vercel.app">
     <img src="https://img.shields.io/badge/Click%20Here_to%20Explore-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
