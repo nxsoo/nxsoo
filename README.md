@@ -1,16 +1,23 @@
-## Hi there 👋
+## <p align="center">Just building... stuff...</p>
+<br />
+<p align="center">
+<img src="https://media.tenor.com/SgVtJpD9tp0AAAAM/itcrowd-it.gif" width="720" height="400" />
+</p>
 
-<!--
-**nxsoo/nxsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <a htref="https://portfolio-nxsoo.vercel.app">About & Projects</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# <p align="center">📊 GitHub Stats:</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nxsoo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxsoo&theme=tokyonight&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxsoo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
