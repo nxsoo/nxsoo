@@ -8,10 +8,9 @@
 
 <p align="center">
   <a href="https://portfolio-nxsoo.vercel.app">
-    <img src="https://img.shields.io/badge/About%20%26%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/👉_Click%20Me_About%20%26%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ## <p align="center"> Stats:</p>
