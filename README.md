@@ -35,6 +35,7 @@
 
 ---
 
+## <p align="center">🌐 Socials</p>
 <p align="center">
   <a href="https://portfolio-nxsoo.vercel.app">
     <img src="https://img.shields.io/badge/👉_Click%20Me_About%20%26%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" />
