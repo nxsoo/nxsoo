@@ -62,9 +62,9 @@
 
 ## <p align="center"> 📊 Stats</p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxsoo&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxsoo&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxsoo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://ghstats.dev/api/langs?username=nxsoo&theme=tokyonight&hide_border=true&hide_title=true" alt="Top Languages" />
 </p>
 
 ---
