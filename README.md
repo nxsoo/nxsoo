@@ -8,7 +8,7 @@
 # <p align="center">Just building... stuff 🏗️👽</p>
 
 <p align="center">
-  <a href="https:/www.clintjs.com">
+  <a href="https:/clintjs.com">
     <img src="https://img.shields.io/badge/👉_Click%20Me%20%7C%20About%20%26%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <br/><br/>
