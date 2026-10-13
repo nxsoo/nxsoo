@@ -12,15 +12,15 @@
     <img src="https://img.shields.io/badge/👉_Click%20Me%20%7C%20About%20%26%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <br/><br/>
-  <a href="https://www.facebook.com/clint.o.tamayo">
+  <a href="https://www.facebook.com/clint.o.tamayo" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   &nbsp; 
-  <a href="https://www.linkedin.com/in/clintjtamayo">
+  <a href="https://www.linkedin.com/in/clintjtamayo" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://discord.com/users/nxsoo.">
+  <a href="https://discord.com/users/nxsoo." target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   &nbsp;
